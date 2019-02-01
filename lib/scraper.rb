@@ -22,7 +22,6 @@ class Scraper
     binding.pry 
   end 
   
-  doc.css(".post")
   
 end
 
