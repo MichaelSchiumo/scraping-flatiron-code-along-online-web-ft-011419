@@ -22,6 +22,8 @@ class Scraper
     binding.pry 
   end 
   
+  doc.css(".post")
+  
 end
 
 Scraper.new.get_page 
